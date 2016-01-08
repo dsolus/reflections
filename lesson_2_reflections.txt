@@ -15,5 +15,13 @@ commits into 'logical change' steps. So if you complete changes to a single
 file but continue working on another you can add the completed file to the
 staging area.
 
+How can you use the staging area to make sure you have one commit per logica
+change?
+
+Using the commands: git diff, git diff --staging, and git diff commit1
+commit2 allows you to see the changes made to the staging area and working
+directory. Mindful use of these commands enables the user to make one
+logical change per commit.
+
 
 
