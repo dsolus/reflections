@@ -29,7 +29,10 @@ The branch command allows you to create alternate paths for your work. This may 
 Changes can be made taking the project in one direction but holding the
 core work true.
 
+How do the diagrams help you visualize the branch structure?
 
+They are diagrams. That is exactly their purpose. You can see each individual
+branch as it is created. Allowing you to trace back to relevant parent commits.
 
 
 
