@@ -34,6 +34,15 @@ How do the diagrams help you visualize the branch structure?
 They are diagrams. That is exactly their purpose. You can see each individual
 branch as it is created. Allowing you to trace back to relevant parent commits.
 
+What is the result of merging two branches together? Why do we represent it in the
+diagram the way we do?
+
+The result of merging commits is the ablity to access and make changes to an
+individual branch from the master branch. A branch that once seperated from the 
+master is now part of the same branch while keeping individual relevant commits.
+The diagram is helpful when attempting to visualize commits relevant to both
+branches.
+
 
 
 
