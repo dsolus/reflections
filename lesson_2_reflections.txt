@@ -43,7 +43,13 @@ master is now part of the same branch while keeping individual relevant commits.
 The diagram is helpful when attempting to visualize commits relevant to both
 branches.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
 
+Automatic merge is usfull when  merging  majority commits for a project. Manual
+merging is advantageous when merging details of code that may accomplish the
+same task but are written differently. Automatic is faster but manual offers 
+greater control.
 
 
 
