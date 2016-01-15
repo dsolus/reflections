@@ -10,5 +10,9 @@ Pulling changes from the repo is a logical change you need to control. If other
 people are working on a project then automatic pulls may update changes to your
 work with out your consent.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
+A fork is essentially a copy of a repo on github. A clone is a copy of a repo
+taking from git hub and present on your personal machine. Branches are new
+paths of commit history within a given project.
 
