@@ -23,6 +23,13 @@ the progress of your work with the offical version available on github. This
 ablitiy is useful to pick which posted commits you want to include in your 
 version and which local commits you want to push to github.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would collaborate one to one using email and google docs maybe? This process
+has the advantage of being more direct and complete by talking face to face with
+another human. However on large projects the capacity to make and track each 
+individuals change would be dimminihsed.
+
 
 
 
