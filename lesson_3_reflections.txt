@@ -30,6 +30,16 @@ has the advantage of being more direct and complete by talking face to face with
 another human. However on large projects the capacity to make and track each 
 individuals change would be dimminihsed.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+In the last section we changed a single recipe and created a branch associated 
+with that change. This let other users know the recipe was changed and they
+could choose to accept those changes or make their own. Commiting changes to the
+master branch allows users to pull down changes and merge repos on their machine
+or merge files remotely on GitHub
+
+
+
 
 
 
